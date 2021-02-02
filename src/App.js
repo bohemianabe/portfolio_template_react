@@ -1,24 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+// import pages
+import HomePage from './pages/HomePage'
+// import global style
+import GlobalStyle from './components/GlobalStyle'
+// formspree module
+import { FormspreeProvider } from '@formspree/react'
 
 function App() {
   return (
+    
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <FormspreeProvider project="1594843301763088239">
+      <GlobalStyle />
+      <HomePage />
+      </FormspreeProvider>
     </div>
+    
   );
 }
 
