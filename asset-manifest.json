@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/portfolio_template_react/static/js/main.3c184c25.chunk.js",
+    "main.js.map": "/portfolio_template_react/static/js/main.3c184c25.chunk.js.map",
+    "runtime-main.js": "/portfolio_template_react/static/js/runtime-main.eec6af66.js",
+    "runtime-main.js.map": "/portfolio_template_react/static/js/runtime-main.eec6af66.js.map",
+    "static/js/2.1df76565.chunk.js": "/portfolio_template_react/static/js/2.1df76565.chunk.js",
+    "static/js/2.1df76565.chunk.js.map": "/portfolio_template_react/static/js/2.1df76565.chunk.js.map",
+    "static/js/3.17da5323.chunk.js": "/portfolio_template_react/static/js/3.17da5323.chunk.js",
+    "static/js/3.17da5323.chunk.js.map": "/portfolio_template_react/static/js/3.17da5323.chunk.js.map",
+    "index.html": "/portfolio_template_react/index.html",
+    "static/js/2.1df76565.chunk.js.LICENSE.txt": "/portfolio_template_react/static/js/2.1df76565.chunk.js.LICENSE.txt",
+    "static/media/capitolBuilding.ba36da1e.jpg": "/portfolio_template_react/static/media/capitolBuilding.ba36da1e.jpg",
+    "static/media/helloWorld3.c1250048.png": "/portfolio_template_react/static/media/helloWorld3.c1250048.png",
+    "static/media/officeComputer.48dc93d5.jpg": "/portfolio_template_react/static/media/officeComputer.48dc93d5.jpg",
+    "static/media/officeGuy.0fc3a8e5.jpg": "/portfolio_template_react/static/media/officeGuy.0fc3a8e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec6af66.js",
+    "static/js/2.1df76565.chunk.js",
+    "static/js/main.3c184c25.chunk.js"
+  ]
+}
